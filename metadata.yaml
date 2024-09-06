@@ -1,0 +1,26 @@
+_repo: Old-Celtic-tales_74379
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilmot-Buxton, E. M. (Ethel Mary)
+    alias: Wilmot-Buxton, Ethel Mary
+    gutenberg_agent_id: '33985'
+    url: http://www.gutenberg.org/2009/agents/33985
+description: ''
+gutenberg_issued: '2024-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74379'
+language: en
+pgterms:marc905: 20240819195840wilmotbuxt
+pgterms:marc906: '1909'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bGeorge G. Harrap & Company, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Old Celtic tales
+url: http://www.gutenberg.org/ebooks/74379
